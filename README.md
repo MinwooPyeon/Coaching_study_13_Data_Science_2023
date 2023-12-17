@@ -14,3 +14,4 @@
 4주차 : K-beauty 온라인 판매 분석
 
 ### 수료증
+![13 수료증](https://github.com/MinwooPyeon/Coaching_study_13_Data_Science_2023/assets/153968515/a0af5efe-6eb0-4f16-97fb-379bae71081f)
