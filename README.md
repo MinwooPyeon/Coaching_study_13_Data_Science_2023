@@ -1,5 +1,5 @@
 ## 네이버 부스트코스 코칭스터디 13기 Data_Science 2023
-
+![13](https://github.com/MinwooPyeon/Coaching_study_13_Data_Science_2023/assets/153968515/c4fde766-d1c2-4bf5-a537-d832ed3816f7)
 
 ### 활동기간
 2023.06.07 ~ 2023.07.05
